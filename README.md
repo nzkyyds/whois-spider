@@ -9,7 +9,5 @@
     // 内容示例
 
     .com: whois.verisign-grs.com
-    
     .net: whois.verisign-grs.com
-    
     .org: whois.pir.org
