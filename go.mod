@@ -1,4 +1,4 @@
-module github.com/daliyo/spider-WHOIS
+module github.com/daliyo/whois-spider
 
 go 1.14
 
